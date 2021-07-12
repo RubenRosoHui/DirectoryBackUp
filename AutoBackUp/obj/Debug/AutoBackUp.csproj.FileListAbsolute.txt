@@ -1,0 +1,10 @@
+F:\Development Projects\AutoBackUp\obj\Debug\AutoBackUp.csprojAssemblyReference.cache
+F:\Development Projects\AutoBackUp\obj\Debug\AutoBackUp.Form1.resources
+F:\Development Projects\AutoBackUp\obj\Debug\AutoBackUp.Properties.Resources.resources
+F:\Development Projects\AutoBackUp\obj\Debug\AutoBackUp.csproj.GenerateResource.cache
+F:\Development Projects\AutoBackUp\obj\Debug\AutoBackUp.csproj.CoreCompileInputs.cache
+F:\Development Projects\AutoBackUp\bin\Debug\AutoBackUp.exe.config
+F:\Development Projects\AutoBackUp\bin\Debug\AutoBackUp.exe
+F:\Development Projects\AutoBackUp\bin\Debug\AutoBackUp.pdb
+F:\Development Projects\AutoBackUp\obj\Debug\AutoBackUp.exe
+F:\Development Projects\AutoBackUp\obj\Debug\AutoBackUp.pdb
